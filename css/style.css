@@ -75,14 +75,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .cr-btn.primary {
     color: #fff;
-    -webkit-box-shadow: inset 0 0 0 0.28rem #83e450;
-    box-shadow: inset 0 0 0 0.28rem #83e450;
+    -webkit-box-shadow: inset 0 0 0 0.28rem #9A1895;
+    box-shadow: inset 0 0 0 0.28rem #9A1895;
 }
 
 .cr-btn.primary:hover, .cr-btn.primary:focus {
     color: #fff;
-    -webkit-box-shadow: inset 0 0 0 3.25rem #83e450;
-    box-shadow: inset 0 0 0 3.25rem #83e450;
+    -webkit-box-shadow: inset 0 0 0 3.25rem #9A1895;
+    box-shadow: inset 0 0 0 3.25rem #9A1895;
 }
 
 .cr-btn.black {
@@ -132,7 +132,7 @@ body.menu-open {
     left: 0;
     width: 100%;
     height: 3px;
-    background-color: #83e450;
+    background-color: #9A1895;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
@@ -143,7 +143,7 @@ body.menu-open {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #83e450;
+    background-color: #9A1895;
     -webkit-transform-origin: center;
     -moz-transform-origin: center;
     -ms-transform-origin: center;
@@ -221,7 +221,7 @@ body.menu-open {
 }
 
 .main-menu .contant-info div a:hover, .main-menu .contant-info div a:focus {
-    color: #83e450;
+    color: #9A1895;
     text-decoration: none;
 }
 
@@ -292,7 +292,7 @@ body.menu-open {
     position: fixed;
     width: 100%;
     z-index: 999;
-    padding: 4rem 3.5rem;
+    padding: 2.5rem 3.5rem 2rem;
     pointer-events: none;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -344,7 +344,7 @@ body.menu-open {
 }
 
 .cnav.blend {
-    mix-blend-mode: difference;
+    background-color: #7B7777;
 }
 
 .header {
@@ -567,7 +567,7 @@ body.menu-open {
 }
 
 .extra-lg-text .other-color {
-    color: #83e450;
+    color: #9A1895;
     font-family: "Lalezar", cursive;
 }
 
@@ -678,7 +678,7 @@ body.menu-open {
 }
 
 .boxy.primary-color {
-    background-color: #83e450;
+    background-color: #9A1895;
 }
 
 .boxy.primary-color h1.title {
@@ -864,7 +864,7 @@ body.menu-open {
 }
 
 .lg-text .other-color {
-    color: #83e450;
+    color: #9A1895;
     font-family: "Lalezar", cursive;
 }
 
@@ -889,11 +889,12 @@ body.menu-open {
     display: inline-block;
 }
 .founder-image{
+    padding:20px 0;
     border-radius: 50%;
     width: 50%;
 }
 .slg-text .other-color {
-    color: #83e450;
+    color: #9A1895;
     font-family: "Lalezar", cursive;
 }
 
@@ -1017,6 +1018,7 @@ body.menu-open {
 }
 
 .text-box {
+    text-align: center;
     margin-bottom: 4rem;
 }
 
@@ -1381,7 +1383,7 @@ body.menu-open {
 
 .few-contact .contact-info-holder .contact-info a {
     font-family: "Lalezar", cursive;
-    color: #83e450;
+    color: #9A1895;
     font-size: 4.8rem;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -1467,7 +1469,7 @@ body.menu-open {
 }
 
 .social-row .social-media .social-link-holder a:hover, .social-row .social-media .social-link-holder a:focus {
-    color: #83e450;
+    color: #9A1895;
     text-decoration: none;
 }
 
@@ -1527,7 +1529,7 @@ body.menu-open {
 }
 
 .footer .lg-text {
-    color: #83e450;
+    color: #9A1895;
     margin-bottom: 2.2rem;
 }
 
@@ -1566,7 +1568,7 @@ body.menu-open {
 }
 
 .footer .contact-info-holder .contact-info a:hover, .footer .contact-info-holder .contact-info a:focus {
-    color: #83e450;
+    color: #9A1895;
     text-decoration: none;
 }
 
